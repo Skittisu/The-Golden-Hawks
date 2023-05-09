@@ -1,4 +1,6 @@
-## Advanced Data Tagging for Data Fitness and Quality
+# Advanced Data Tagging for Data Fitness and Quality
 Our goal is to use advanced data tagging  with metadata  for data fitness and quality to reduce the manually-intensive work in data management life cycle. It will ensure the metadata accurately enables discovery, access and usage of the data for data fitness and quality. Furthermore, we will use  data analytics and AI/ML techniques to improve this situation.
-# Business Objective
+## Business Objective
 The primary objective of this project is to better enable users to differentiate datasets that are more likely to meet their business needs. This helps users and organizations to save time and resources to refocus human efforts toward tuning parameters instead of data entry of metadata. 
+## Solution Space
+Our process helps users and organizations to incorporate data fitness measures or indicators into DLM processing that consider business questions and tasks by using meta data tags. Data tagging is the process of identifying, categorizing, and labeling data in order to make it easier for a machine learning model to learn. Our solution is to develop a topic modeling algorithm (LDA) that can be used to find topics and thus automate the metadata tagging process. Data tagging can help to improve the quality of data throughout its life cycle. 
