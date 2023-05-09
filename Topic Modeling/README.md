@@ -1,1 +1,2 @@
-
+# Topic Modeling
+For text datasets, Latent Dirichlet Allocation (LDA) model is chosen for topic modeling. It is how hidden topics of the same theme are extracted from a document. The frequency of the words in the topic and their distribution are the outputs. LDA performs faster classification, easier to implement and quick in terms of runtime, allowing it to handle large datasets. It is also a visualization and interpretation tool. 
