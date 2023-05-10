@@ -19,7 +19,7 @@ We compared the results of quality and relevance metrics about which dataset pro
 
 
 ## Use case
-Our framework provides a means to link business questions and tasks to better differentiate data using advanced metadata tagging and indicators for data fitness.
+Our framework provides a means to link business questions and tasks to better differentiate data using advanced metadata tagging and indicators for data fitness. The tags are useful in creating content rating tools that allow users to extract datasets based on keywords that match the tag. This tool will provide users with information on how much of a dataset is relevant to COVID and in what context
 
 <img width="344" alt="mh" src="https://github.com/Skittisu/The-Golden-Hawks/assets/123661501/900d78a7-32c0-4389-95d2-ff744d76cc12">
 <img width="346" alt="mj" src="https://github.com/Skittisu/The-Golden-Hawks/assets/123661501/3894b3ce-1b7a-465e-b107-8df77cdd53d0">
