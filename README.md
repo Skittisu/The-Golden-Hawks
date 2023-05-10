@@ -7,13 +7,14 @@ Our process helps users and organizations to incorporate data fitness measures o
 ## Project Pipeline
 Out of the three text datasets, we are finding out which dataset gives better information about Covid-19. This model gives the user/business enough information to choose the most fit data for their business needs.
 - Data Collection: we collected semi-structured and unstructured data from publicly available sources and detect the data types.
-- Data Quality Assessment: ไe measureก data quality by assessing four quality dimensions (Accuracy, Completeness, Consistency, Uniqueness).
+- Data Quality Assessment: we measured data quality by assessing four quality dimensions (Accuracy, Completeness, Consistency, Uniqueness).
 - Data Cleaning: Data is cleaned by tokenization, removing punctuation, and removing stop words.
 - Topic Modeling: we used Latent Dirichlet Allocation (LDA) and it is part of Python's Gensim package.
 - Data Relevance Assessment:  we calculated coherence score (LDA) and similarity score (BERTopic) to find the most relevant information regarding covid topics or business questions.
 
 ## Results
 We compared the results of quality and relevance metrics about which dataset provides client enhanced information that allows them to easily differentiate datasets that best address their business questions and tasks.
+
 
 ## Use case
 
