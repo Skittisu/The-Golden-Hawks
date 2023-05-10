@@ -6,7 +6,7 @@ The primary objective of this project is to better enable users to differentiate
 Our process helps users and organizations to incorporate data fitness measures or indicators into DLM processing that consider business questions and tasks by using meta data tags. Data tagging is the process of identifying, categorizing, and labeling data in order to make it easier for a machine learning model to learn. Our solution is to develop a topic modeling algorithm (LDA) that can be used to find topics and thus automate the metadata tagging process. Data tagging can help to improve the quality of data throughout its life cycle. We also aim to find the covid related keywords from business questions along with assessing the data quality and relevance indicators to measure data fitness.
 ## Project Pipeline
 Out of the three text datasets, we are finding out which dataset gives better information about Covid-19. This model gives the user/business enough information to choose the most fit data for their business needs.
-- Data Collection="The-Golden-Hawks/Data Collection" : we collected semi-structured and unstructured data from publicly available sources and detect the data types.
+- Data Collection: we collected semi-structured and unstructured data from publicly available sources and detect the data types.
 - Data Quality Assessment: we measured data quality by assessing four quality dimensions (Accuracy, Completeness, Consistency, Uniqueness).
 - Data Cleaning: Data is cleaned by tokenization, removing punctuation, and removing stop words.
 - Topic Modeling: we used Latent Dirichlet Allocation (LDA) and it is part of Python's Gensim package.
@@ -14,6 +14,7 @@ Out of the three text datasets, we are finding out which dataset gives better in
 
 ## Results
 We compared the results of quality and relevance metrics about which dataset provides client enhanced information that allows them to easily differentiate datasets that best address their business questions and tasks.
+<img width="400" alt="Untitled" src="https://github.com/Skittisu/The-Golden-Hawks/assets/123661501/e16fa9fe-7c63-4a3b-90be-91dd05e0928b">
 
 
 ## Use case
