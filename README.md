@@ -9,7 +9,7 @@ Out of the three text datasets, we are finding out which dataset gives better in
 - Data Collection: we collected semi-structured and unstructured data from publicly available sources and detect the data types.
 - Data Quality Assessment: we measured data quality by assessing four quality dimensions (Accuracy, Completeness, Consistency, Uniqueness).
 - Data Cleaning: Data is cleaned by tokenization, removing punctuation, and removing stop words.
-- Modeling: we used Latent Dirichlet Allocation (LDA) and it is part of Python's Gensim package.
+- Topic Modeling: we used Latent Dirichlet Allocation (LDA) and it is part of Python's Gensim package.
 - Data Relevance Assessment:  we calculated coherence score (LDA) and similarity score (BERTopic) to find the most relevant information regarding covid topics or business questions.
 
 On the other hand we have two image datasets namely covid-19 and COVID CXR image datasets which gives visual information of chest x-rays predciting the possibility of covid.Following back to our business question in order to predict which dataset best gives covid information we have performed the following steps.
@@ -17,7 +17,7 @@ On the other hand we have two image datasets namely covid-19 and COVID CXR image
 - Data Collection: we collected unstructured data from publicly available sources and detect the data types.
 - Data Quality Assessment: we measured data quality by assessing four quality dimensions (Accuracy, Completeness, Consistency, Uniqueness).
 - Data Cleaning: Data is cleaned by removing duplicate images, checking consistency, and removing corrupted files.
-- Topic Modeling: we used convolutional neural networks(CNN) a machine learning algorithm in momentum AI to predict covid from the chest x-ray images.
+- Modeling: we used convolutional neural networks(CNN) a machine learning algorithm in momentum AI to predict covid from the chest x-ray images.
 
 
 ## Results
