@@ -24,7 +24,7 @@ On the other hand we have two image datasets namely covid-19 and COVID CXR image
 We compared the results of quality and relevance metrics about which dataset provides client enhanced information that allows them to easily differentiate datasets that best address their business questions and tasks.
 
 <img width="400" alt="Untitled" src="https://github.com/Skittisu/The-Golden-Hawks/assets/123661501/e16fa9fe-7c63-4a3b-90be-91dd05e0928b">
-<img width="417" alt="Untitled" src="https://github.com/Skittisu/The-Golden-Hawks/assets/123661501/9551991b-e296-4ef1-8fcc-d91b286d767d">
+<img width="416" alt="Untitled" src="https://github.com/Skittisu/The-Golden-Hawks/assets/123661501/291a7a01-669d-46f3-a138-b21d4514324d">
 
 
 ## Use case
